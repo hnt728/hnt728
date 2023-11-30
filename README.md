@@ -1,6 +1,4 @@
 ### Hi there 👋
-I am a student at Taki Junior High School.
-I am a member of the Robotics Group of the Advanced Technology Research Department.
 <!--
 **hnt728/hnt728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
